@@ -1,9 +1,9 @@
-import '@/src/styles/globals.css'
-import '@/src/styles/tailwind.css'
-
-import {Roboto as CustomFont} from 'next/font/google';
+import {Inter as CustomFont} from 'next/font/google';
 import ThemeModeProvider from "../src/context/ThemeModeProvider";
 import { SITE } from 'src/config';
+
+import '@/styles/globals.css';
+import '@/styles/tailwind.css'
 
 const customFont = CustomFont({
   subsets: ['latin'],

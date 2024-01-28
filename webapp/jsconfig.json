@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@/*": ["personal-brand-website/*"]
+      "@/*": ["/*", "src/*"]
     }
   }
 }
