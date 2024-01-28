@@ -1,10 +1,10 @@
-# Portfolio Website Next.js 13
+# Personal Brand Website with Next.js 13 and TailwindCSS
 
-Modern web portfolio built with Next.js 13 and TailwindCSS.
+Modern web platform for showcasing your personal brand, built with Next.js 13 and TailwindCSS.
 
 ## Description
 
-This project is a personal portfolio website showcasing my skills, projects, and experiences as a developer. It is developed using the latest version of Next.js (v13) and styled with TailwindCSS, providing a modern and responsive design.
+This project is your personal brand's digital space, allowing you to showcase your skills, projects, and experiences as a developer. It is developed using the latest version of Next.js (v13) and styled with TailwindCSS, providing a modern and responsive design.
 
 ## Contributing
 
@@ -26,8 +26,9 @@ For any inquiries or feedback, feel free to reach out:
 - **GitHub:** [@matiavallejosdev](https://github.com/matiavallejosdev)
 - **Email:** [matiasvallejosdev@outlook.com](mailto:matiasvallejosdev@outlook.com)
 
-Thank you for your interest in the Portfolio Website Next.js 13 project! Your feedback and contributions are highly valued.
+Thank you for your interest in the Personal Brand Website project! Your feedback and contributions are highly valued.
 
 ---
 
-Thank you for using the Portfolio Website Next.js 13 to showcase your skills and experiences. We hope this portfolio provides an impressive and professional representation of your work. Your feedback and contributions are highly appreciated, and we look forward to enhancing this portfolio with your support!
+Thank you for using the Personal Brand Website built with Next.js 13 and TailwindCSS to establish and strengthen your personal brand. We hope this platform provides a compelling and professional representation of your skills and experiences. Your feedback and contributions are highly appreciated, and we look forward to enhancing this platform with your support!
+
