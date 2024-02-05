@@ -20,12 +20,8 @@ export default function RootLayout({children}) {
           </title>
       </head>
       <body
-          className="relative 
-                   bg-white 
-                   dark:bg-slate-900 
-                   md:bg-white/90 
-                   md:backdrop-blur-sm 
-                   dark:md:bg-slate-900/90">
+          className="relative bg-white 
+          dark:bg-black">
           <ThemeModeProvider key="themeprovider">
               {children}
           </ThemeModeProvider>
