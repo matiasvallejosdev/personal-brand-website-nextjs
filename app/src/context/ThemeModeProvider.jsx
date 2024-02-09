@@ -1,10 +1,11 @@
-'use client';
-import {ThemeProvider} from "next-themes";
+"use client";
 
-const ThemeModeProvider = ({ children }) => (
-  <ThemeProvider attribute="class">
-    {children}
-  </ThemeProvider>
-);
+import { ThemeProvider as NextThemesProvider } from "next-themes";
 
-export default ThemeModeProvider;
+const ThemeProvider = ({ children, ...props }) => {
+
+return <NextThemesProvider {...props}>{children}</NextThemesProvider>;
+
+};
+
+export default ThemeProvider;

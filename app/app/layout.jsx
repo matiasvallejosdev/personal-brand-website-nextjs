@@ -1,5 +1,6 @@
 import {Inter as CustomFont} from 'next/font/google';
-import ThemeModeProvider from "../src/context/ThemeModeProvider";
+
+import Providers from '@/context/Providers';
 import { SITE } from 'src/config';
 
 import '@/styles/globals.css';
@@ -22,9 +23,9 @@ export default function RootLayout({children}) {
       <body
           className="relative bg-white 
           dark:bg-black">
-          <ThemeModeProvider key="themeprovider">
+          <Providers>
               {children}
-          </ThemeModeProvider>
+          </Providers>
       </body>
       </html>
   )
